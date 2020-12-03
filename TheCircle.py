@@ -148,11 +148,3 @@ if __name__ == '__main__':
     Testo.dothemath()
 ################################################
 # log:
-# > n-tuple generation
-#    * backtrack
-# > permutation generation
-#    * dynamic programming
-# > merge sort
-#    * divide and conquer
-# > uBaG7o mo He ce nycHa no gkanaHku ctc Tas
-#    * Furapka?
